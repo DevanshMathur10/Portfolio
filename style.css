@@ -46,6 +46,23 @@ body {
     animation-direction: alternate;
 
 }
+
+#projectdiv {
+  font-family: elianto;
+  justify-content: center;
+  align-content: center;
+  margin-left: 100px;
+  margin-top:30%;
+}
+
+#contactdiv {
+  font-family: elianto;
+  justify-content: center;
+  align-content: center;
+  margin-left: 100px;
+  margin-top:5%;
+}
+
 @keyframes animated-text{
   from{width: 0%;}
   to{width: 1550px;}
